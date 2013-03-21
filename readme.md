@@ -1,4 +1,4 @@
 # Sample Readme
 ---
 
-Change has come to America!
+Change has come to America! Awesome.
